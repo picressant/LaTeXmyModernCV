@@ -1,3 +1,5 @@
 *.aux
 *.log
 CV.pdf
+CV.out
+CV.syntex.gz
